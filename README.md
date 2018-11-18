@@ -1,3 +1,10 @@
+# My Readme
+
+
+## Description
+This is the repository for my github pages website. It can be found [here](https://meraz.github.io).
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/meraz/meraz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
